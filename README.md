@@ -24,9 +24,9 @@ Using season totals and per-game stats, I compare three-point attempts (3PA) and
 └── final notebook/
 |   └── 03_final_product.pdf
 └── artifacts/
-    ├── IMG_8443.png
-    ├── Screen Shot 2025-12-12 at 8.48.17 PM.png
-    ├── Screen Shot 2025-12-12 at 8.48.41 PM.png
-    ├── Screen Shot 2025-12-12 at 8.48.50 PM.png
+    ├── Paper_Storyboard.png
+    ├── Slide1.png
+    ├── Slide2.png
+    ├── Slide3.png
     └── infographic.png
 
