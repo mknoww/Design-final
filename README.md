@@ -12,7 +12,7 @@ Using season totals and per-game stats, I compare three-point attempts (3PA) and
 
 ```text
 .
-├── final/
+├── Data/
 │   └── Basketball_Data_2024-2025_Season.csv
 ├── notebooks/
 │   ├── 01_data_setup.ipynb
