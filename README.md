@@ -22,4 +22,11 @@ Using season totals and per-game stats, I compare three-point attempts (3PA) and
 │   ├── nba_stars_scoring_infographic.png
 │   └── nba_stars_scoring_infographic.svg
 └── final notebook/
-    └── 03_final_product.pdf
+|   └── 03_final_product.pdf
+└── artifacts/
+    ├── IMG_8443.png
+    ├── Screen Shot 2025-12-12 at 8.48.17 PM.png
+    ├── Screen Shot 2025-12-12 at 8.48.41 PM.png
+    ├── Screen Shot 2025-12-12 at 8.48.50 PM.png
+    └── infographic.png
+
